@@ -9,4 +9,4 @@
 1. [Урок 1.5](#lesson_1_5)
 
 # Урок 1.5 <a name="lesson_1_5"></a>
-<a href="https://github.com/qaway/postman/blob/main/lessons/lesson_1_5/Lesson_1_5.postman_collection">Коллекция с запросом</a>
+<a href="https://raw.githubusercontent.com/qaway/postman/blob/main/lessons/lesson_1_5/Lesson_1_5.postman_collection">Коллекция с запросом</a>
